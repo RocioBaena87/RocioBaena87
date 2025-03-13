@@ -1,10 +1,6 @@
-## Hi there 👋
+Bienvenido!
+Soy Rocío Baena y me encuentro cursando 1º de Desarrollo de Aplicaciones Web (DAW). Actualmente, estoy en busca de oportunidades para realizar prácticas en empresas donde pueda aplicar y ampliar mis conocimientos en programación, bases de datos y diseño web.
 
-<!--
-**RocioBaena87/RocioBaena87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una persona proactiva, con ganas de aprender y crecer profesionalmente. Me motiva trabajar en equipo y afrontar nuevos retos que me permitan mejorar mis habilidades técnicas y personales. Mi objetivo es integrarme en un entorno de trabajo dinámico donde pueda aportar valor y seguir desarrollándome en el mundo del desarrollo web.
 
-Here are some ideas to get you started:
-
-- 🔭 Actualmente estoy en búsqueda de trabajo.
-- 🌱 Actualmente estoy cursando 1º de DAW.
-- 👯 Me gustaría poder hacer prácticas de DAW para tener un mejor rendimiento y soltura.
+Estoy abierto a conectar con profesionales y empresas que busquen personas con ganas de aprender y contribuir en proyectos tecnológicos.
